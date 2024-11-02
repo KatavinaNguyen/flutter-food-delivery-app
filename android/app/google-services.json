@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750476604537",
+    "project_id": "yumyum-e8291",
+    "storage_bucket": "yumyum-e8291.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750476604537:android:555a82b12ace5938ebd0a8",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdAxxaLwqmL2P6Kb-tp-gJCydp5mkIGqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
