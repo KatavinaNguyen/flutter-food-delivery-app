@@ -41,48 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyACn_x0Sg-IiMqN0Uoy_fHdCjmm3dA528c',
-    appId: '1:750476604537:web:d35c746942c3d604ebd0a8',
-    messagingSenderId: '750476604537',
-    projectId: 'yumyum-e8291',
-    authDomain: 'yumyum-e8291.firebaseapp.com',
-    storageBucket: 'yumyum-e8291.appspot.com',
-    measurementId: 'G-NFFZBN3YC8',
+    apiKey: 'YOUR_WEB_API_KEY',
+    appId: 'YOUR_WEB_APP_ID',
+    messagingSenderId: 'YOUR_WEB_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    authDomain: 'YOUR_AUTH_DOMAIN',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
+    measurementId: 'YOUR_MEASUREMENT_ID',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAdAxxaLwqmL2P6Kb-tp-gJCydp5mkIGqs',
-    appId: '1:750476604537:android:555a82b12ace5938ebd0a8',
-    messagingSenderId: '750476604537',
-    projectId: 'yumyum-e8291',
-    storageBucket: 'yumyum-e8291.appspot.com',
+    apiKey: 'YOUR_ANDROID_API_KEY',
+    appId: 'YOUR_ANDROID_APP_ID',
+    messagingSenderId: 'YOUR_ANDROID_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDawP_E-i7zjdhYhDIeZlIa7jD_u_ubH_0',
-    appId: '1:750476604537:ios:c33618baf80c7748ebd0a8',
-    messagingSenderId: '750476604537',
-    projectId: 'yumyum-e8291',
-    storageBucket: 'yumyum-e8291.appspot.com',
-    iosBundleId: 'com.example.app',
+    apiKey: 'YOUR_IOS_API_KEY',
+    appId: 'YOUR_IOS_APP_ID',
+    messagingSenderId: 'YOUR_IOS_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
+    iosBundleId: 'YOUR_IOS_BUNDLE_ID',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDawP_E-i7zjdhYhDIeZlIa7jD_u_ubH_0',
-    appId: '1:750476604537:ios:c33618baf80c7748ebd0a8',
-    messagingSenderId: '750476604537',
-    projectId: 'yumyum-e8291',
-    storageBucket: 'yumyum-e8291.appspot.com',
-    iosBundleId: 'com.example.app',
+    apiKey: 'YOUR_MACOS_API_KEY',
+    appId: 'YOUR_MACOS_APP_ID',
+    messagingSenderId: 'YOUR_MACOS_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
+    iosBundleId: 'YOUR_IOS_BUNDLE_ID',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyACn_x0Sg-IiMqN0Uoy_fHdCjmm3dA528c',
-    appId: '1:750476604537:web:9915e1ed2a483cf3ebd0a8',
-    messagingSenderId: '750476604537',
-    projectId: 'yumyum-e8291',
-    authDomain: 'yumyum-e8291.firebaseapp.com',
-    storageBucket: 'yumyum-e8291.appspot.com',
-    measurementId: 'G-3JY43P7424',
+    apiKey: 'YOUR_WINDOWS_API_KEY',
+    appId: 'YOUR_WINDOWS_APP_ID',
+    messagingSenderId: 'YOUR_WINDOWS_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    authDomain: 'YOUR_AUTH_DOMAIN',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
+    measurementId: 'YOUR_MEASUREMENT_ID',
   );
 }
